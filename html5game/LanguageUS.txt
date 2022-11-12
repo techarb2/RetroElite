@@ -1,4 +1,4 @@
-msg_Update	Thank you for updating Retro Bowl 2!##17 game schedules will kick in when you start a new season and you can now change the height of a pass by tapping the screen with a second finger whilst aiming.##I hope you like it! - techarb2
+msg_Update	Thank you for updating Retro Elite!##17 game schedules will kick in when you start a new season and you can now change the height of a pass by tapping the screen with a second finger whilst aiming.##I hope you like it! - techarb2
 ui_NewStarGames	Ingrain Network
 ui_Back	Back
 ui_Home	Home
@@ -153,7 +153,7 @@ down_4and	4th &
 Goal	Goal
 Inches	Inches
 match_GetReady	Get Ready!
-game_Title	Retro Bowl 2
+game_Title	Retro Elite
 qualification_NO	Not Possible
 qualification_MAYBE	Possible
 qualification_PO	Playoffs
@@ -627,7 +627,7 @@ ui_Details	Details
 ui_NewCareer	New Career
 news_NewCareer	With just $num $weeks left in the regular season $teamname have appointed $coachname as their new head coach.##$lname has worked at the college level for several years and was excelling as the head coach of $randomcollegename before taking the reigns at $teamname.
 ui_StartWithFave	Start with favorite team?
-info_StartWithFave	Retro Bowl 2 is a game all about building a legacy. If you choose to start with your favorite team that's fine but the story of your career will be a simple one.##Why not start out at a low ranked team and prove yourself as a head coach before receiving that dream job offer from your favorite team?
+info_StartWithFave	Retro Elite is a game all about building a legacy. If you choose to start with your favorite team that's fine but the story of your career will be a simple one.##Why not start out at a low ranked team and prove yourself as a head coach before receiving that dream job offer from your favorite team?
 msg_Intro_1	Welcome to $teamname!##This is your home screen. You can tap on the division table to view divisions and the schedule.##When you are ready tap the F.OFFICE button.
 msg_Intro_2	From the Front Office you can upgrade facilities and staff.##Tapping an 'i' icon will bring up useful information.
 msg_Intro_3	I'm sure you want to meet your players so let's check the ROSTER screen.
@@ -754,7 +754,7 @@ dilemma_toxic13	$playername was verbally abusive towards the coaching staff toda
 dilemma_random1	$playername was stopped by the police and given a ticket for speeding last night.-choice_IgnoreFine-choice_FinePlayer
 dilemma_random2	$playername was stopped by the police last night and was found to be in possession of illegal substances.-choice_IgnoreFine-choice_FinePlayer
 dilemma_random3	The team broke a curfew and were out partying all night! $playername was the ring leader.-choice_FinePlayer-choice_CriticiseTeam
-dilemma_random4	You caught $playername playing Retro Bowl 2 on his phone during a team meeting.-choice_FinePlayer-choice_PraisePlayer
+dilemma_random4	You caught $playername playing Retro Elite on his phone during a team meeting.-choice_FinePlayer-choice_PraisePlayer
 dilemma_late1	$playername was late for training today.-choice_IgnoreFine-choice_FinePlayer
 dilemma_late2	$playername turned up late for a team meeting today.-choice_IgnoreFine-choice_FinePlayer
 dilemma_late3	$playername didn't turn up for a meeting with the coaching staff today.-choice_IgnoreFine-choice_FinePlayer
@@ -800,7 +800,7 @@ msg_PurchaseUnlock	To continue playing you must purchase the full version for $p
 msg_StoreConnect_Unlock	To continue playing you must unlock the full version.##Please make sure you are connected to the internet to make a purchase.
 msg_PurchaseCredits	Would you like to purchase $num coaching credits for $price?
 msg_StoreConnect	The store is unavailable. Please make sure you have an internet connection.
-msg_StoreReview	Would you like to rate and review Retro Bowl 2 on the store for $num coach credits?
+msg_StoreReview	Would you like to rate and review Retro Elite on the store for $num coach credits?
 ui_Store	Store
 btn_FreeAgents	Free#Agents
 btn_BuyCredits	Buy#Credits
@@ -815,7 +815,7 @@ ui_Close	Close
 btn_RestorePurchases	Restore#Purchases
 ui_Connecting	Connecting...
 ui_FavouriteTeam	Favorite Team
-msg_Welcome	Welcome to Retro Bowl 2!##You are about to start your first season as the head coach of a pro football team.##The path to success is an arduous one but if you believe in yourself and can inspire your team then glory awaits!#
+msg_Welcome	Welcome to Retro Elite!##You are about to start your first season as the head coach of a pro football team.##The path to success is an arduous one but if you believe in yourself and can inspire your team then glory awaits!#
 msg_LimitedVersion	*** Limited Version - $num games remaining ***
 ui_Tip	Tip
 ui_Tips	Tips
@@ -1019,7 +1019,7 @@ btn_PlayerRecords	Player#Records
 ui_YourRecord	Your Record
 ui_Winners	Winners
 ui_NewRecord	New Record
-msg_PlayerRecords	Player records are a new addition to Retro Bowl 2. Records set previous to this update may not be displayed.
+msg_PlayerRecords	Player records are a new addition to Retro Elite. Records set previous to this update may not be displayed.
 btn_RestAll	Rest All
 btn_UnrestAll	Clear#Resting
 btn_SalaryCap	Salary Cap
