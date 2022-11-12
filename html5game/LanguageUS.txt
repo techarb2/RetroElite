@@ -229,12 +229,12 @@ match_StiffArm	Stiff Arm!
 ui_DivisionLeaders	Division Leaders
 ui_WildCard	Wild Card
 ui_InTheHunt	In the hunt
-ui_SuperBowl	Retro Bowl
-ui_Super#Bowl	Retro#Bowl
+ui_SuperBowl	Elite Bowl
+ui_Super#Bowl	Elite#Bowl
 ui_Champion	Champion
 ui_PlayOffPicture	Playoff Picture
 msg_PlayOffResult	$teamname1 beat $teamname2 $score1-$score2!
-msg_SuperBowlWinner	$teamname1 win the Retro Bowl!
+msg_SuperBowlWinner	$teamname1 win the Elite Bowl!
 match_FG_Good	It's good
 match_FG_Bad	No good
 match_Kicking	Kicking
@@ -777,8 +777,8 @@ ui_Achievement	Achievement
 ui_Achievements	Achievements
 btn_HallOfFame	Hall of#Fame
 ui_HallOfFame	Hall of Fame
-ui_RetroBowls	Retro Bowls
-ui_RetroBowl	Retro Bowl
+ui_RetroBowls	Elite Bowls
+ui_RetroBowl	Elite Bowl
 pos_1	1st
 pos_2	2nd
 pos_3	3rd
@@ -956,8 +956,8 @@ ui_Remove	Remove
 ui_PlayerHallOfFameEmpty	To put players in your Hall of Fame you need to tag them in the top-right corner of their profile page.
 msg_HofListTooBig	There is no room in the Hall of Fame! Please remove a player before tagging a new one.
 msg_TradeAwayRookie	Warning! Trading a recently signed player has a negative impact on team morale and your fan relationship!
-ui_RetroBowlWinners	Retro Bowl Winners
-ui_RetroBowls	Retro Bowls
+ui_RetroBowlWinners	Elite Bowl Winners
+ui_RetroBowls	Elite Bowls
 btn_RetroBowls	Retro   #Bowls
 btn_PlayerHallOfFame	Player   #HOF
 ui_YourHistory	Your History
